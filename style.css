@@ -65,9 +65,10 @@ p {
 }
 
 footer {
-    background-color: #FFB6C1; /* Rosa claro */
-    color: white;
+    background-color: #FFB2C6; /* Rosa claro mais suave */
+    color: #4A4A4A; /* Texto escuro para boa legibilidade */
     text-align: center;
     padding: 10px;
     margin-top: 20px;
 }
+
