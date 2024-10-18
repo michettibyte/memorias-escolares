@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #FFEBEE; /* Rosa clarinho */
+    background-color: #FFF7F8; /* Fundo mais claro */
     color: #4A4A4A; /* Texto escuro para boa legibilidade */
 }
 
@@ -65,10 +65,9 @@ p {
 }
 
 footer {
-    background-color: #FFB2C6; /* Rosa claro mais suave */
+    background-color: #FFD6E1; /* Rosa claro para o rodapé */
     color: #4A4A4A; /* Texto escuro para boa legibilidade */
     text-align: center;
     padding: 10px;
     margin-top: 20px;
 }
-
