@@ -6,12 +6,12 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #FFB6C1; /* Rosa claro */
-    color: #333; /* Texto escuro para boa legibilidade */
+    background-color: #FFEBEE; /* Rosa clarinho */
+    color: #4A4A4A; /* Texto escuro para boa legibilidade */
 }
 
 header {
-    background-color: #D5006D; /* Rosa mais escuro */
+    background-color: #FF6F91; /* Rosa vibrante, mas suave */
     color: white;
     padding: 15px;
     text-align: center;
@@ -38,7 +38,7 @@ nav ul li a {
 nav ul li ul {
     display: none;
     position: absolute;
-    background-color: #D5006D; /* Rosa mais escuro para submenu */
+    background-color: #FF6F91; /* Rosa vibrante para submenu */
     padding: 0;
 }
 
@@ -55,7 +55,7 @@ main {
 }
 
 h2, h3 {
-    color: #D5006D; /* Rosa mais escuro para títulos */
+    color: #D5006D; /* Rosa mais escuro para títulos, mas ainda suave */
     margin-bottom: 10px;
 }
 
@@ -65,4 +65,9 @@ p {
 }
 
 footer {
-   
+    background-color: #FFB6C1; /* Rosa claro */
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
